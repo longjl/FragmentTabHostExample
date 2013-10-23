@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="strs">
+        <item>仿新浪微博</item>
+        <item>仿微信5.0</item>
+    </string-array>
+
+</resources>
